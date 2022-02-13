@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,200&family=Josefin+Slab:ital@1&display=swap');
+
+:root {
+    --body-background: #F0F0F0;
+    --header-background: #FFF;    
+    --search-box-primary: #FFF;
+    --search-box-secondary: #A4A9B7;
+    --search-label-text: #4B5563;
+    --search-form-border: #4B5563;
+    --search-form-placeholder: #4B5563;
+    --search-button-text: #FFF;
+    --search-button-primary: #4B5563;
+    --search-button-secondary: #999FB9;
+    --cep-submit-notification: #999FB9;
+    --hr-primary: #333;
+    --hr-secondary: linear-gradient(to right, #CCC, #333, #CCC); 
+    --via-cep-box-primary: #FFF;
+    --via-cep-box-secondary: #A4A9B7;
+    --table-text-color-primary: #4B5563;
+    --table-text-color-secondary: #999FB9;
+    --action-button-primary: #F5F5F5;
+    --action-button-secondary: #CDCFD7;
+    --cep-delete-notification-primary: #FAFAD2;
+    --cep-delete-notification-secondary: #FFA500;
+    --cep-delete-notification-tertiary: #F6F6BD;
+    --cep-delete-notification-text: #A0522D;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    background-color: var(--body-background);
+    font-family: 'Inter', sans-serif;       
+}
