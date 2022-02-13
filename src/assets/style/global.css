@@ -3,24 +3,24 @@
 
 :root {
     --body-background: #F0F0F0;
-    --header-background: #FFF;    
+    --header-background: #FFF;        
     --search-box-primary: #FFF;
-    --search-box-secondary: #A4A9B7;
+    --search-box-secondary: #A4A9B7;    
     --search-label-text: #4B5563;
     --search-form-border: #4B5563;
-    --search-form-placeholder: #4B5563;
+    --search-form-placeholder: #4B5563;    
     --search-button-text: #FFF;
     --search-button-primary: #4B5563;
-    --search-button-secondary: #999FB9;
-    --cep-submit-notification: #999FB9;
+    --search-button-secondary: #6E7888;    
+    --cep-submit-notification: #999FB9;    
     --hr-primary: #333;
-    --hr-secondary: linear-gradient(to right, #CCC, #333, #CCC); 
+    --hr-secondary: linear-gradient(to right, #CCC, #333, #CCC);     
     --via-cep-box-primary: #FFF;
-    --via-cep-box-secondary: #A4A9B7;
+    --via-cep-box-secondary: #A4A9B7;    
     --table-text-color-primary: #4B5563;
-    --table-text-color-secondary: #999FB9;
+    --table-text-color-secondary: #999FB9;    
     --action-button-primary: #F5F5F5;
-    --action-button-secondary: #CDCFD7;
+    --action-button-secondary: #E7E7E7;
     --cep-delete-notification-primary: #FAFAD2;
     --cep-delete-notification-secondary: #FFA500;
     --cep-delete-notification-tertiary: #F6F6BD;
